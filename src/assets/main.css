@@ -1,0 +1,5 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Kumbh+Sans:wght@400;700&display=swap');
+body{
+  background-color:  hsl(273, 75%, 66%);
+}
